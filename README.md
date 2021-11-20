@@ -33,4 +33,6 @@ The sudden increase in the demand for the stock can be due to various reasons in
 
 5) https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/
 
-​
+## Data Sourse.
+
+https://bit.ly/36fFPI6 (Textual Data.)
